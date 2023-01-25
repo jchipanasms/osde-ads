@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Centros de atencion personalizada - cercania</modulo>
+    <nombreDeLaPrueba>CentrosAtencionCercaniaTimeOutResultLista</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>05_Se hace clic en el listado de Resultados</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se realiza el login y le damos clic atras para ir al inicio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se hace clic en el botón Buscar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se ingresa a Buscar por cercanía y establecemos una dirección especifica</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se Ingresa a Centros de Atención Personalizada</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Luego de 30seg validamos que se encuentre el popup de timeout</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Después de otros 30seg más, validamos que se encuentre deslogueado el usuario y este en pantalla de inicio</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1596231414</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>14495473</documento>
+        <password>osde2020</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

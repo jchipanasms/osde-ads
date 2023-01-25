@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home
+	</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Pantalla Principal</modulo>
+    <nombreDeLaPrueba>AutorizacionesPaso1SiguienteSinCheck</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>01_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se realiza clic en el modulo autorizaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Desde el paso 1 seleccionamos un socio, no damos clic al check y presionamos en siguiente</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se valida que nos encontremos en pantalla y hacemos clic en Internación - Cirugía</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Damos clic en aceptar el aviso y verificamos que nos encontremos en el mismo paso 1</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Verificamos que aparezca el popup de aviso por los terminos y condiciones</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1596746199</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>26623573</documento>
+        <password>solopruebas456</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

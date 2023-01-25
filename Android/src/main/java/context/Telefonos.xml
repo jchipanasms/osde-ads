@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Teléfonos</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>Telefonos</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>08_Se verifica que se Presione el botn Volver y se vuelva a la pgina de inicio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se verifica que se muestre el titulo Urgencias y sus telefonos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se verifica que se muestre el titulo Centro de Atencin Telefnica y el telfono</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica que se muestre el titulo Riesgo de Vida y el telfono</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se verifica que se Presione el Protector de pantalla</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se verifica que se muestre el titulo Centro de Atencin Digital y el telfono</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se verifica que se muestre el titulo telefono</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Baja</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1598018588</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <version>4.2.0</version>
+</objectsMobile>

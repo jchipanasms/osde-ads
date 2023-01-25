@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Cartilla Medica</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Osde Viaja Con Vos</modulo>
+    <nombreDeLaPrueba>CartillaOsdeViajaServiciosExterior</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se valida la información de servicios en el exterior</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se ingresa a servicios en el exterior, validamos el mensaje y presionamos en continuar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Seleccionamos un pais y verificamos la información en pantalla</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se Ingresa a Cartilla Médica y seleccionamos OSDE viaja con vos</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1596120275</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <version>4.2.0</version>
+</objectsMobile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home
+	</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Pantalla Principal</modulo>
+    <nombreDeLaPrueba>ReintegrosMsjeTimeOutPaso1</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>03_Se espera el mensaje popup deslogueo luego de 30seg.</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Una vez que desaparece el popup, verificamos que el usuario se encuentre deslogueado</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se realiza clic en el modulo reintegros</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1595431198</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>14495473</documento>
+        <password>osde2020</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

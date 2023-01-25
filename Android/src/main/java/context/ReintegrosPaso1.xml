@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home
+	</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+<<<<<<< HEAD:Android/src/main/java/context/Credenciales.xml
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>Credenciales</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>04_Se ingresa a Credenciales</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se realiza el deslogueo</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se verifican los elementos de Credenciales</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se Ingresa a Condiciones de Servicio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa a Gestiones Online</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se verifica que se Existan los botones de atras y el de deslogueo</key>
+=======
+    <modulo>Pantalla Principal</modulo>
+    <nombreDeLaPrueba>ReintegrosPaso1</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>01_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se verifica el contenido del paso 1</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se realiza clic en el modulo reintegros</key>
+>>>>>>> Fer:Android/src/main/java/context/ReintegrosPaso1.xml
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+<<<<<<< HEAD:Android/src/main/java/context/Credenciales.xml
+    <tiempoInicio>1596453651</tiempoInicio>
+=======
+    <tiempoInicio>1595390404</tiempoInicio>
+>>>>>>> Fer:Android/src/main/java/context/ReintegrosPaso1.xml
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>14495473</documento>
+        <password>osde2020</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

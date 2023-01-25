@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Asignado</asignado>
+    <descripcion>descripcion</descripcion>
+    <estado>Estado</estado>
+    <imgFalla>imgFalla</imgFalla>
+    <modulo>modulo</modulo>
+    <nombreDeLaPrueba>nombrePrueba</nombreDeLaPrueba>
+    <pasos/>
+    <prioridad>Prioridad</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Sprint</sprint>
+    <tiempoFinal>TiempoFinal</tiempoFinal>
+    <tiempoInicio>TiempoInicio</tiempoInicio>
+    <tipoDePrueba>TipoPrueba</tipoDePrueba>
+    <usuario>
+        <documento>prueba</documento>
+        <password>PASSTEST</password>
+    </usuario>
+    <version>version</version>
+</objectsMobile>

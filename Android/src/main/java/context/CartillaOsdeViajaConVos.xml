@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Cartilla Medica</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>CartillaOsdeViajaConVos</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>02_Se Ingresa a Cartilla Médica</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se ingresa a OSDE viaja con vos y validamos que se encuentren todas las opciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1595458579</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <version>4.2.0</version>
+</objectsMobile>

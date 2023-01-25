@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurationMobile>
+	<platformName>Android</platformName>
+	<apkPath>\\src\\apk\\release.5.3.11.production.apk</apkPath>
+	<portAppium>4723</portAppium>
+	<ipAppium>0.0.0.0</ipAppium>
+	<platformVersion>8.1.0</platformVersion>
+	<deviceName>emulator-5554</deviceName>
+	<delivery>False</delivery>
+	<imagePath>\\src\\\ResultadosTest\\screenshot</imagePath>
+	<imageRepository>C:/imageRepository</imageRepository>
+	<log4jPath>..\\frameworkMobile\\src\\log4j.xml</log4jPath>
+	<reportPath>..\\frameworkMobile\\src\\main\\java\\report\\JReportAdvancedConfigurationMobile.xml</reportPath>
+	<reportRepository>\\src\\ResultadosTest\\Report\\Reporte.pdf</reportRepository>
+	<deliveryPath>..\\frameworkMobile\\src\\main\\java\\delivery\\emailSenderConfigurationMobile.xml</deliveryPath>
+	<browser>Chrome</browser>
+	<driverPath>..\\frameworkMobile\\src\\drivers\\ChromeDriver\\chromedriver.exe</driverPath>
+	<IEDriverPath>..\\frameworkMobile\\src\\drivers\\ChromeDriver\\chromedriver.exe</IEDriverPath>
+	<delivery>False</delivery>
+	<imagePath>\\src\\ResultadosTest\\screenshot</imagePath>
+	<imageRepository>C:\\imageRepository</imageRepository>
+	<pruebaRemota>NO</pruebaRemota>
+	<urlDriver>http://127.0.0.1:4723/wd/hub</urlDriver>
+	<correo>https://mail.google.com/mail/</correo>
+</configurationMobile>

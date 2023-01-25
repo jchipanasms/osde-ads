@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Cartilla Medica</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>BusquedaPorNombre</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>09_Se Vuelve dos pasos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se Ingresa a Cartilla Mdica</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>12_Se Vuelve dos pasos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se selecciona la Provincia</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se ingresa a Buscar por Nombre</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se selecciona el rubro</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Se hace click en normas generales</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se selecciona el plan</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se ingresa el  nombre a buscar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se ingresa a la informacin del mdico</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>11_Se Cierra normas Generales</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1598018663</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <version>4.2.0</version>
+</objectsMobile>

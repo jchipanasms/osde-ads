@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Teléfonos</descripcion>
+    <estado>Falla</estado>
+    <imgFalla>C:\imageRepository\FALLA_CentrosDeAtencionProvincia_20200821110611.png</imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>CentrosDeAtencionProvincia</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Falla</value>
+        </entry>
+    </pasos>
+    <prioridad>Baja</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1598018759</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <version>4.2.0</version>
+</objectsMobile>

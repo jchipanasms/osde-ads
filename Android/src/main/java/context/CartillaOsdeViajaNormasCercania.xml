@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Cartilla Medica</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>CartillaOsdeViajaNormasCercania</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>04_Seleccionamos un plan y validamos lo seleccionado</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se ingresa a Buscar por cercanía y le damos clic a normas generales</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se Ingresa a Cartilla Médica y seleccionamos OSDE viaja con vos</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1595890103</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <version>4.2.0</version>
+</objectsMobile>

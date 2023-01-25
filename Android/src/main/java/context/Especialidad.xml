@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Ayuda</descripcion>
+    <estado>Falla</estado>
+    <imgFalla>C:\imageRepository\FALLA_Especialidad_20200821110559.png</imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>Especialidad</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>04_Se Selecciona el plan</key>
+            <value>Falla</value>
+        </entry>
+        <entry>
+            <key>02_Se Ingresa a Cartilla Mdica</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se ingresa a Buscar por Especialidad</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Baja</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>10</tiempoFinal>
+    <tiempoInicio>1598018729</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <version>4.2.0</version>
+</objectsMobile>

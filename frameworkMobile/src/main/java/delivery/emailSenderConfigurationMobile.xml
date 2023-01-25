@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emailSenderConfigurationMobile>
+	<attachedFilePath>\\src\\ResultadosTest\\Report\\Reporte.pdf</attachedFilePath>
+	<emailGroup>ptermansen@sms-latam.com</emailGroup>
+	<emailFrom>Testing.autom.tas@gmail.com</emailFrom>
+	<mailAuth>true</mailAuth>
+	<mailStarttls>true</mailStarttls>
+	<smptHost>smtp.gmail.com</smptHost>
+	<port>587</port>
+	<user>Testing.autom.tas@gmail.com</user>
+	<password>testing001</password>
+</emailSenderConfigurationMobile>
+

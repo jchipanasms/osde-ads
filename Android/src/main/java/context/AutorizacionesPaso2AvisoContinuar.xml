@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home
+	</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Pantalla Principal</modulo>
+    <nombreDeLaPrueba>AutorizacionesPaso2AvisoContinuar</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>01_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Presionamos en Continuar y verificamos que nos encontremos en el paso 3</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Desde el paso 1 seleccionamos un socio, damos clic al check y presionamos siguiente</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se realiza clic en el modulo autorizaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se verifica el popup</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Desde el paso 2 seteamos una fecha actual para visualizar el popup</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se valida que nos encontremos en pantalla y hacemos clic en Internación - Cirugía</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1596657752</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>26623573</documento>
+        <password>solopruebas456</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

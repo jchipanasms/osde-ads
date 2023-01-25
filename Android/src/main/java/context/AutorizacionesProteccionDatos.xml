@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home
+	</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Pantalla Principal</modulo>
+    <nombreDeLaPrueba>AutorizacionesProteccionDatos</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>04_Hacemos clic en Internación - Cirugía para dirigirnos al paso 1</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se realiza clic en el modulo autorizaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Presionamos en el link de proteccion de datos personales, validamos y presionamos en cruz</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se valida que nos encontremos en la primera pantalla</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se verifica que nos encontremos en el paso 1</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1596653925</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>26623573</documento>
+        <password>solopruebas456</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

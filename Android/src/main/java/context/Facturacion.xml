@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Ayuda</descripcion>
+    <estado>Falla</estado>
+    <imgFalla>C:\imageRepository\FALLA_Facturacion_20200819025552.png</imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>Facturacion</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se verifican los elementos</key>
+            <value>Falla</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa a Gestiones Online</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se verifica el boton Facturación</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1597859677</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>26623573</documento>
+        <password>solopruebas456</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

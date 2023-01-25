@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home
+	</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Pantalla Principal</modulo>
+    <nombreDeLaPrueba>ReintegrosCancelarCapturaDoc</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>01_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se toma captura y validamos que se haya adjuntado correctamente el comprobante</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se completan los datos del paso 1 y continuar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se realiza clic en el modulo reintegros</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1595356537</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>14495473</documento>
+        <password>osde2020</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

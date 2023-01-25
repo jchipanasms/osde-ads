@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Cartilla Medica</descripcion>
+    <estado>Falla</estado>
+    <imgFalla>C:\imageRepository\FALLA_DatosdeContacto_20200821084429.png</imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>DatosdeContacto</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>05_Se verifican los elementos del formulario</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se ingresa a Datos de contacto</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Se ingresa a Modificar Residencia y se verifican los elementos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>11_Se Ingresa a Modificar Domicilio de Correspondencia y se verifican los elementos</key>
+            <value>Falla</value>
+        </entry>
+        <entry>
+            <key>10_Se Cancela la modificacin de Residencia</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se Cancela la modificacin de telefonos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Se Accede al botn mas telfonos y se verifican los elementos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Se ingresa a Agregar Email y se verfican los elementos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa a Gestiones Online</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Se Cancela la Opcion de Agregar Email</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1598010182</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>26623573</documento>
+        <password>solopruebas456</password>
+    </usuarioMobile>
+    <version>4.2.0</version>
+</objectsMobile>

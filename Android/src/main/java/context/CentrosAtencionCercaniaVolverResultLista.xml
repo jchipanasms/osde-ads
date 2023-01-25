@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de Cartilla Medica</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Modulo 1</modulo>
+    <nombreDeLaPrueba>CentrosAtencionCercaniaVolverResultLista</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>06_Validamos que nos encontremos en la pantalla de resultados por mapa</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Se hace clic en el botón Buscar</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se ingresa a Buscar por cercanía y establecemos una dirección especifica</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se Acepta el mensaje de permitir</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se Ingresa a Centros de Atención Personalizada</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se hace clic en el listado de Resultados y presionamos en volver</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1596208092</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <version>4.2.0</version>
+</objectsMobile>

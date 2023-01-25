@@ -1,0 +1,11 @@
+# Eclipse IDE: Archivos de configuracion
+Android/src/logfile.log
+Android/.settings/
+Android/target/
+Android/test-output/
+frameworkMobile/.settings/
+frameworkMobile/target/
+ 
+# Maven: Archivos compilados
+target/
+/.metadata/

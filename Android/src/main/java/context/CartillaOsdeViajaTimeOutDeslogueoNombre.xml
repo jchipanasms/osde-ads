@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Pantalla Principal</modulo>
+    <nombreDeLaPrueba>CartillaOsdeViajaTimeOutDeslogueoNombre</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>01_Se realiza el login y le damos clic atras para ir al inicio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se ingresa a Cartilla Médica y seleccionamos OSDE viaja con vos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Luego de los 30seg validamos que se encuentre deslogueado el usuario y este en pantalla de inicio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se ingresa a Buscar por nombre y validamos que se encuentre el popup de timeout luego de 30seg</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1596054196</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>14495473</documento>
+        <password>osde2020</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>

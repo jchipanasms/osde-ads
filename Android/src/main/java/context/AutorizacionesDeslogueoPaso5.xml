@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objectsMobile>
+    <asignado>Paula</asignado>
+    <descripcion>Aplicacion Android - Visualizar elementos de la Home
+	</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <modulo>Pantalla Principal</modulo>
+    <nombreDeLaPrueba>AutorizacionesDeslogueoPaso5</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>04_En el paso 1 seleccionamos un socio, damos clic al check y presionamos siguiente</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>07_Desde el paso 4 presionamos en siguiente</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se realiza el login</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>08_Verificamos que nos encontremos en el paso 5</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>09_Presionamos en el boton deslogueo y aceptamos</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Se realiza clic en el modulo autorizaciones</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>06_Desde el paso 3 adjuntamos un pedido medico (validamos que se haya adjuntado) y presionamos en siguiente</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>10_Verificamos que nos encontremos en inicio</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>05_Se completa el paso 2 y presionamos en siguiente</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>03_Se valida que nos encontremos en pantalla y hacemos clic en Internación - Cirugía</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1596729227</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuarioMobile>
+        <documento>26623573</documento>
+        <password>solopruebas456</password>
+    </usuarioMobile>
+    <version>1.2.0</version>
+</objectsMobile>
